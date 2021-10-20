@@ -1,7 +1,7 @@
 ### Hi all! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🔭 I’m currently working with Supply Chain and enrolled in a Data Science & Analytics MBA Program
-- <img src="https://media4.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.gif?cid=790b76116a3b9e474709315859c7ee91224749c8361ca4f0&rid=giphy.gif&ct=g" width="15px"> &nbsp; I’m currently learning Python, Airflow and SQL
+- <img src="https://media4.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.gif?cid=790b76116a3b9e474709315859c7ee91224749c8361ca4f0&rid=giphy.gif&ct=g" width="15px"> &nbsp; I’m also learning Python, Airflow and SQL
 
 
 #### 🛠️ My tools <p/>
